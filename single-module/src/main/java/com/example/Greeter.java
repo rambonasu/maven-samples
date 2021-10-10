@@ -18,7 +18,8 @@ public class Greeter {
   }
 
 
-  public static void main(string args[]){
-      system.out.println("Hello from main method!!!");
+  public static void main(String args[]){
+
+      System.out.println("Hello from main method!!!");
   }
 }
